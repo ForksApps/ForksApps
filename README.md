@@ -2,7 +2,7 @@
 - 👀 I'm interested in Python and Ansible at this time
 - 🌱 I’m currently learning Python and Ansible
 
--  I like: Oracle, PostgreSQL, MySQL, SQLite, Linux RHEL, AIX, Delphi, RAD Studio
+-  I like: Oracle, PostgreSQL, MySQL, SQLite, Linux RHEL, AIX, RAD Studio (Delphi)
 
 <!---
 ForksApps/ForksApps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
