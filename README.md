@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ForksApps alias Peter
+- 👋 Hi, I’m @ForksApps
 - 👀 I'm interested in Python and Ansible at this time
 - 🌱 I’m currently learning Python and Ansible
 
