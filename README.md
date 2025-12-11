@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForksApps
 - 👀 I'm interested in Python and Ansible at this time
-- 🌱 I’m currently learning Python and Ansible
+- 🌱 I’m currently learning Docker, Ansible, Xcode
 
 -  I like: Oracle, PostgreSQL, MySQL, SQLite, Linux RHEL, AIX, RAD Studio (Delphi)
 
