@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForksApps
 
-- 🌱 I’m currently learning Docker, Ansible, Xcode, AI
+- 🌱 I’m currently learning Xcode, AI
 
 -  I like: Oracle, PostgreSQL, MySQL, SQLite, Linux RHEL, Ansible, AIX, RAD Studio (Delphi) and AI
 
